@@ -1,4 +1,4 @@
-Selenium Automation Practice
+<b>Selenium Automation Practice</b>
 
 This repository contains my hands-on practice with Python and Selenium WebDriver, covering the core concepts used in web UI test automation.
 
