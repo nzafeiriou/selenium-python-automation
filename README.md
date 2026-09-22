@@ -1,6 +1,6 @@
-<b>Selenium Automation Practice</b>
+###Selenium Automation Practice
 
-This repository contains my hands-on practice with Python and Selenium WebDriver, covering the core concepts used in web UI test automation.
+##This repository contains my hands-on practice with Python and Selenium WebDriver, covering the core concepts used in web UI test automation.
 
 Topics Covered
 Input fields
@@ -28,7 +28,7 @@ PyCharm
 Git / GitHub
 Project Structure
 
-The exercises are organized by topic:
+##The exercises are organized by topic:
 
 1_input_fields
 2_radio_buttons
